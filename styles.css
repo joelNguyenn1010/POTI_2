@@ -1,0 +1,189 @@
+/* variable color */
+:root {
+    --white: #ffffff;
+    --light-dim: #FAF8F8
+}
+
+body {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+/* -----Header----- */
+
+.header {
+    height: 5rem;
+    background-color: var(--white);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 6px 6px -6px #777;
+         box-shadow: 0 6px 6px -6px #777;
+}
+
+
+/* Logo */
+.logo {
+    font-size: 1.5rem;
+    margin-left: 3rem;
+}
+/* Brand */
+
+.brand {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+/* user nav */
+
+.nav {
+    display: flex;
+    align-self: stretch;
+    align-items: center;
+}
+
+.nav__box {
+    margin-right: 3rem;
+  
+    padding: 0 1.3rem;
+    cursor: pointer;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+
+}   
+
+.nav__box:hover {
+    background-color: var(--light-dim);
+}
+
+.nav__notification{
+   
+    position: absolute;
+    top: .9rem;
+    right: .8rem;
+
+}
+
+
+
+.btn-reservation__icon {
+    height: 2.25rem;
+    width: 2.25rem;
+  
+    cursor: pointer;
+}
+/* -------------- */
+
+
+/* Cart - (Cars) */
+
+.cars {
+    padding: 7rem;
+    /* margin-top: 7rem; */
+    display: grid;
+    /* grid-auto-rows: 25rem; */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 5rem;
+
+}
+
+.car {
+    /* background-color: var(--light-dim); */
+    /* padding-bottom: 30rem; */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+    grid-row-gap: 1rem;
+
+}
+/* 
+.car__info{
+    display: grid;
+} */
+
+.cars-image {
+    width: 100%;
+    /* max-width: 400px; */
+    grid-column: 1 / -1;
+    transform: translateY(10%);
+}
+
+/* name */
+.car__name {
+    grid-column: 1 / -1;
+    justify-self: center;
+    /* overflow: hidden; */
+    word-break: break-all;
+    padding: 1rem;
+    width: 90%;
+    text-align: center;
+
+    z-index: 3;
+    /* grid-row: 1 / 2; */
+
+ 
+}
+
+/* price */
+
+.car__price {
+    justify-self: center;
+    word-break: break-all;
+}
+
+.car__price__value{
+
+}
+
+/* availability */
+.car__availability{
+    justify-self: center;
+    word-break: break-all;
+
+}
+
+.car__availability__value{
+
+}
+
+/* button add */
+.btn__add_to_cart{
+    grid-column: 1 / -1;
+
+
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+         box-shadow: 0 10px 6px -6px #777;
+
+    font-weight: 500;
+    background-color: #777;
+    color: #fff;
+    border: none;
+    border-radius: 0;
+    font-size: 1rem;
+    padding: 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all .2s;
+}
+.btn__add_to_cart:active {
+    background-color: grey;
+}
+
+.btn__add_to_cart:focus {outline:0;}
+
+/* --------------End--------------- */

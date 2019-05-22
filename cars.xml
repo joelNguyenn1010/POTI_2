@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <category>sedan</category>
+        <availability>True</availability>
+        <brand>Toyota</brand>
+        <model>Camry</model>
+        <modelYear>2013</modelYear>
+        <mileage>10000</mileage>
+        <fuelType>petrol</fuelType>
+        <seats>5</seats>
+        <pricePerDay>120</pricePerDay>
+        <description>xxxxx</description>
+        <images>Camry.jpg</images>
+    </car>
+    <car>
+        <category>wagon</category>
+        <availability>True</availability>
+        <brand>Toyota</brand>
+        <model>320i</model>
+        <modelYear>2013</modelYear>
+        <mileage>312412</mileage>
+        <fuelType>petrol</fuelType>
+        <seats>5</seats>
+        <pricePerDay>220</pricePerDay>
+        <description>xxxxx</description>
+        <images>320i.jpg</images>
+    </car>
+     <car>
+        <category>waSUVgon</category>
+        <availability>False</availability>
+        <brand>Volkswagen</brand>
+        <model>Golf</model>
+        <modelYear>2013</modelYear>
+        <mileage>312412</mileage>
+        <fuelType>CNG</fuelType>
+        <seats>4</seats>
+        <pricePerDay>180</pricePerDay>
+        <description>xxxxx</description>
+        <images>320i.jpg</images>
+    </car>
+</cars>
