@@ -19,6 +19,7 @@ body {
 /* -----Header----- */
 
 .header {
+ 
     height: 5rem;
     background-color: var(--white);
     display: flex;
@@ -26,6 +27,7 @@ body {
     align-items: center;
     position: fixed;
     top: 0;
+    z-index: 1000;
     width: 100%;
     text-align: center;
     -webkit-box-shadow: 0 10px 6px -6px #777;
@@ -116,6 +118,7 @@ body {
 } */
 
 .cars-image {
+    z-index: -10;
     width: 100%;
     /* max-width: 400px; */
     grid-column: 1 / -1;
@@ -132,7 +135,7 @@ body {
     width: 90%;
     text-align: center;
 
-    z-index: 3;
+
     /* grid-row: 1 / 2; */
 
  

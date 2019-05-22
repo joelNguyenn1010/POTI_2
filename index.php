@@ -37,65 +37,98 @@
             <!-- </div> -->
             <button class="btn__add_to_cart">Add to cart</button>
         </div>
-
         <div class="car">
             <img class="cars-image" src="./images/320i.jpg" />
-        </div>
+            <h1 class="car__name">Name</h1>
+            <!-- <div class="car__info"> -->
+                <p class="car__price">Price <span class="car__price__value">566</span></p> 
 
-        <div class="car">
+                <p class="car__availability">Available <span class="car__availability__value">True</span></p>
+            <!-- </div> -->
+            <button class="btn__add_to_cart">Add to cart</button>
+        </div>     <div class="car">
             <img class="cars-image" src="./images/320i.jpg" />
+            <h1 class="car__name">Name</h1>
+            <!-- <div class="car__info"> -->
+                <p class="car__price">Price <span class="car__price__value">566</span></p> 
 
-        </div>
-
-
-        <div class="car">
+                <p class="car__availability">Available <span class="car__availability__value">True</span></p>
+            <!-- </div> -->
+            <button class="btn__add_to_cart">Add to cart</button>
+        </div>     <div class="car">
             <img class="cars-image" src="./images/320i.jpg" />
+            <h1 class="car__name">Name</h1>
+            <!-- <div class="car__info"> -->
+                <p class="car__price">Price <span class="car__price__value">566</span></p> 
 
-        </div>
-
-        <div class="car">
+                <p class="car__availability">Available <span class="car__availability__value">True</span></p>
+            <!-- </div> -->
+            <button class="btn__add_to_cart">Add to cart</button>
+        </div>     <div class="car">
             <img class="cars-image" src="./images/320i.jpg" />
+            <h1 class="car__name">Name</h1>
+            <!-- <div class="car__info"> -->
+                <p class="car__price">Price <span class="car__price__value">566</span></p> 
 
-        </div>
-
-        <div class="car">
+                <p class="car__availability">Available <span class="car__availability__value">True</span></p>
+            <!-- </div> -->
+            <button class="btn__add_to_cart">Add to cart</button>
+        </div>     <div class="car">
             <img class="cars-image" src="./images/320i.jpg" />
+            <h1 class="car__name">Name</h1>
+            <!-- <div class="car__info"> -->
+                <p class="car__price">Price <span class="car__price__value">566</span></p> 
 
-        </div>
-
-        <div class="car">
+                <p class="car__availability">Available <span class="car__availability__value">True</span></p>
+            <!-- </div> -->
+            <button class="btn__add_to_cart">Add to cart</button>
+        </div>     <div class="car">
             <img class="cars-image" src="./images/320i.jpg" />
+            <h1 class="car__name">Name</h1>
+            <!-- <div class="car__info"> -->
+                <p class="car__price">Price <span class="car__price__value">566</span></p> 
 
-        </div>
-
-        <div class="car">
+                <p class="car__availability">Available <span class="car__availability__value">True</span></p>
+            <!-- </div> -->
+            <button class="btn__add_to_cart">Add to cart</button>
+        </div>     <div class="car">
             <img class="cars-image" src="./images/320i.jpg" />
+            <h1 class="car__name">Name</h1>
+            <!-- <div class="car__info"> -->
+                <p class="car__price">Price <span class="car__price__value">566</span></p> 
 
-        </div>
-
-        <div class="car">
+                <p class="car__availability">Available <span class="car__availability__value">True</span></p>
+            <!-- </div> -->
+            <button class="btn__add_to_cart">Add to cart</button>
+        </div>     <div class="car">
             <img class="cars-image" src="./images/320i.jpg" />
+            <h1 class="car__name">Name</h1>
+            <!-- <div class="car__info"> -->
+                <p class="car__price">Price <span class="car__price__value">566</span></p> 
 
-        </div>
-
-        <div class="car">
+                <p class="car__availability">Available <span class="car__availability__value">True</span></p>
+            <!-- </div> -->
+            <button class="btn__add_to_cart">Add to cart</button>
+        </div>     <div class="car">
             <img class="cars-image" src="./images/320i.jpg" />
+            <h1 class="car__name">Name</h1>
+            <!-- <div class="car__info"> -->
+                <p class="car__price">Price <span class="car__price__value">566</span></p> 
 
-        </div>
-
-        <div class="car">
+                <p class="car__availability">Available <span class="car__availability__value">True</span></p>
+            <!-- </div> -->
+            <button class="btn__add_to_cart">Add to cart</button>
+        </div>     <div class="car">
             <img class="cars-image" src="./images/320i.jpg" />
+            <h1 class="car__name">Name</h1>
+            <!-- <div class="car__info"> -->
+                <p class="car__price">Price <span class="car__price__value">566</span></p> 
 
+                <p class="car__availability">Available <span class="car__availability__value">True</span></p>
+            <!-- </div> -->
+            <button class="btn__add_to_cart">Add to cart</button>
         </div>
-
-
-        <div class="car">
-            <img class="cars-image" src="./images/320i.jpg" />
-        </div>
-
-        <div class="car">
-            <img class="cars-image" src="./images/320i.jpg" />
-        </div>
+      
     </section>
 </body>
 
