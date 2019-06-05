@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <id>1</id>
+        <category>sedan</category>
+        <availability>True</availability>
+        <brand>Toyota</brand>
+        <model>Camry</model>
+        <modelYear>2013</modelYear>
+        <mileage>10000</mileage>
+        <fuelType>petrol</fuelType>
+        <seats>5</seats>
+        <pricePerDay>120</pricePerDay>
+        <description>xxxxx</description>
+        <images>Camry.jpg</images>
+    </car>
+    <car>
+        <id>2</id>
+        <category>wagon</category>
+        <availability>True</availability>
+        <brand>Toyota</brand>
+        <model>320i</model>
+        <modelYear>2013</modelYear>
+        <mileage>312412</mileage>
+        <fuelType>petrol</fuelType>
+        <seats>5</seats>
+        <pricePerDay>220</pricePerDay>
+        <description>xxxxx</description>
+        <images>320i.jpg</images>
+    </car>
+     <car>
+         <id>3</id>
+        <category>waSUVgon</category>
+        <availability>False</availability>
+        <brand>Volkswagen</brand>
+        <model>Golf</model>
+        <modelYear>2013</modelYear>
+        <mileage>312412</mileage>
+        <fuelType>CNG</fuelType>
+        <seats>4</seats>
+        <pricePerDay>180</pricePerDay>
+        <description>xxxxx</description>
+        <images>Golf.png</images>
+    </car>
+    <car>
+        <id>4</id>
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Volkswagen</brand>
+        <model>Cherokee</model>
+        <modelYear>2013</modelYear>
+        <mileage>312412</mileage>
+        <fuelType>CNG</fuelType>
+        <seats>5</seats>
+        <pricePerDay>190</pricePerDay>
+        <description>xxxxx</description>
+        <images>Cherokee.png</images>
+    </car>
+
+    <car>
+        <id>5</id>
+        <category>Honda</category>
+        <availability>False</availability>
+        <brand>Volkswagen</brand>
+        <model>Captiva</model>
+        <modelYear>2013</modelYear>
+        <mileage>3123412</mileage>
+        <fuelType>CNG</fuelType>
+        <seats>6</seats>
+        <pricePerDay>120</pricePerDay>
+        <description>xxxxx</description>
+        <images>Captiva.jpg</images>
+    </car>
+
+
+    <car>
+        <id>6</id>
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Volkswagen</brand>
+        <model>Civic</model>
+        <modelYear>2013</modelYear>
+        <mileage>312412</mileage>
+        <fuelType>CNG</fuelType>
+        <seats>5</seats>
+        <pricePerDay>190</pricePerDay>
+        <description>xxxxx</description>
+        <images>Civic.jpg</images>
+    </car>
+
+
+    <car>
+        <id>7</id>
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Volkswagen</brand>
+        <model>GLC</model>
+        <modelYear>2013</modelYear>
+        <mileage>312412</mileage>
+        <fuelType>CNG</fuelType>
+        <seats>5</seats>
+        <pricePerDay>190</pricePerDay>
+        <description>xxxxx</description>
+        <images>GLC.png</images>
+    </car>
+
+
+    <car>
+        <id>8</id>
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Volkswagen</brand>
+        <model>Sydney</model>
+        <modelYear>2013</modelYear>
+        <mileage>312412</mileage>
+        <fuelType>CNG</fuelType>
+        <seats>5</seats>
+        <pricePerDay>190</pricePerDay>
+        <description>xxxxx</description>
+        <images>Golf.png</images>
+    </car>
+
+
+    <car>
+        <id>9</id>
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Volkswagen</brand>
+        <model>Jimny</model>
+        <modelYear>2013</modelYear>
+        <mileage>312412</mileage>
+        <fuelType>CNG</fuelType>
+        <seats>5</seats>
+        <pricePerDay>190</pricePerDay>
+        <description>xxxxx</description>
+        <images>Jimny.jpg</images>
+    </car>
+
+
+    <car>
+        <id>10</id>
+        <category>SUV</category>
+        <availability>False</availability>
+        <brand>Volkswagen</brand>
+        <model>Sonata</model>
+        <modelYear>2013</modelYear>
+        <mileage>312412</mileage>
+        <fuelType>CNG</fuelType>
+        <seats>5</seats>
+        <pricePerDay>190</pricePerDay>
+        <description>xxxxx</description>
+        <images>Sonata.jpg</images>
+    </car>
+
+
+
+</cars>
